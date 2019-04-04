@@ -1,0 +1,14 @@
+C:\Users\RD\source\repos\Task01\Task01\bin\Debug\netcoreapp2.1\Task01.deps.json
+C:\Users\RD\source\repos\Task01\Task01\bin\Debug\netcoreapp2.1\Task01.runtimeconfig.json
+C:\Users\RD\source\repos\Task01\Task01\bin\Debug\netcoreapp2.1\Task01.runtimeconfig.dev.json
+C:\Users\RD\source\repos\Task01\Task01\bin\Debug\netcoreapp2.1\Task01.dll
+C:\Users\RD\source\repos\Task01\Task01\bin\Debug\netcoreapp2.1\Task01.pdb
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.csprojResolveAssemblyReference.cache
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.csproj.CoreCompileInputs.cache
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.RazorAssemblyInfo.cache
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.RazorAssemblyInfo.cs
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.AssemblyInfoInputs.cache
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.AssemblyInfo.cs
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.RazorTargetAssemblyInfo.cache
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.dll
+C:\Users\RD\source\repos\Task01\Task01\obj\Debug\netcoreapp2.1\Task01.pdb

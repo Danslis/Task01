@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+tr:hover {
+    background: #E2EEFF;
+}
+
+tr:hover {
+    background: #E2EEFF;
+}
+
+.table-select tr.active td {
+    background: #6598C7;
+    color: #fff;
+    outline: 0;
+}
